@@ -1,0 +1,6 @@
+{
+  "name": "Odyssey: 10-Year Adventure Piggy Bank & Growth Journal",
+  "description": "A child-friendly 10-year adventure piggy bank, personal progress tracker, and savings journal with gamified self-competition, milestone maps, patience bonuses, and secure parent ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
